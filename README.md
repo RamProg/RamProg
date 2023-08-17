@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFzdTlxYzllam1uODhnenoyc2wwMTNwbG5qbXA2ZXNtZjdxc3d3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp" width="400" alt="lightning" align="center">
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.webp" width="400" alt="lightning" align="center">
 </p>
 <h2 align="center">A little about me</h2>
 
