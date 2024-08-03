@@ -6,7 +6,7 @@
 I’m @RamProg, a software engineer and tech lead.
 
 **Current** activity
-- 💼 I’m currently working for The Economist
+- 💼 I’m currently working for Factorial
 - 🌱 I’m currently learning Software Architecture
 
 <p align="center">
