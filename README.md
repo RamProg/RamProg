@@ -6,8 +6,8 @@
 I’m @RamProg, a software engineer and tech lead.
 
 **Current** activity
-- 💼 I’m currently working for Factorial
-- 🌱 I’m currently learning Software Architecture
+- 💼 I’m currently working for Capitole
+- 🌱 I’m currently learning Jetpack Compose
 
 <p align="center">
    <table>
