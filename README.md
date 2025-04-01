@@ -6,7 +6,7 @@
 I’m @RamProg, a software engineer and tech lead.
 
 **Current** activity
-- 💼 I’m currently working for Capitole
+- 💼 I’m currently working for Wave Mobile Money
 - 🌱 I’m currently learning Jetpack Compose
 
 <p align="center">
